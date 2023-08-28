@@ -46,7 +46,7 @@
 |VI|  ![progress](https://progress-bar.dev/5/ "progresso") ||
 |NANO|  ![progress](https://progress-bar.dev/60/ "progresso") ||
 |GIT|  ![progress](https://progress-bar.dev/70/ "progresso") ||
-|JAVASCRIPT|  ![progress](https://progress-bar.dev/80/ "progresso") ||
+|JAVASCRIPT|  ![progress](https://progress-bar.dev/90/ "progresso") ||
 |TYPESCRIPT|  ![progress](https://progress-bar.dev/80/ "progresso")||
 |MARKDOWN|  ![progress](https://progress-bar.dev/30/ "progresso")||
 |HTML|  ![progress](https://progress-bar.dev/90/ "progresso")||
