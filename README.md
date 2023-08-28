@@ -62,6 +62,7 @@
 |Semantic UI |  ![progress](https://progress-bar.dev/60/ "progresso")||
 |IONIC |  ![progress](https://progress-bar.dev/80/ "progresso")||
 |ARDUINO |  ![progress](https://progress-bar.dev/80/ "progresso")||
+|Kubernetes |  ![progress](https://progress-bar.dev/40/ "progresso")||
  
   
 
