@@ -24,7 +24,7 @@
 
 
 
-|Habilidades| % ||
+|Habilidades| 
 |--|  
 |WINDOWS| 
 |LINUX|  
