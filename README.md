@@ -25,59 +25,44 @@
 
 
 |Habilidades| % ||
-|--| ----------------------------------------------------------------------------------------------  |--|
-|WINDOWS| ![progress](https://progress-bar.dev/80/ "progresso")|-----------------------------------------------------------------------------------------------------------------|
-|LINUX|  ![progress](https://progress-bar.dev/90/ "progresso")||
-|FREEBSD|  ![progress](https://progress-bar.dev/70/ "progresso") ||
-|PHP|  ![progress](https://progress-bar.dev/70/ "progresso")||
-|PYTHON|  ![progress](https://progress-bar.dev/70/ "progresso") ||
-|C#|  ![progress](https://progress-bar.dev/70/ "progresso") ||
-|C++| ![progress](https://progress-bar.dev/40/ "progresso") ||
-|MYSQL|  ![progress](https://progress-bar.dev/50/ "progresso") ||
-|POSTGRESS|  ![progress](https://progress-bar.dev/50/ "progresso") ||
-|UNITY3D|  ![progress](https://progress-bar.dev/80/ "progresso") ||
-|UNREAL ENGINE|  ![progress](https://progress-bar.dev/80/ "progresso") ||
-|BLENDER 3D|  ![progress](https://progress-bar.dev/90/ "progresso") ||
-|UPBGE|  ![progress](https://progress-bar.dev/95/ "progresso")||
-|QTFRAMEWORK|  ![progress](https://progress-bar.dev/60/ "progresso")||
-|DELPHI|  ![progress](https://progress-bar.dev/60/ "progresso") ||
-|DOCKER|  ![progress](https://progress-bar.dev/50/ "progresso")||
-|APACHE|  ![progress](https://progress-bar.dev/50/ "progresso") ||
-|VI|  ![progress](https://progress-bar.dev/5/ "progresso") ||
-|NANO|  ![progress](https://progress-bar.dev/60/ "progresso") ||
-|GIT|  ![progress](https://progress-bar.dev/70/ "progresso") ||
-|JAVASCRIPT|  ![progress](https://progress-bar.dev/90/ "progresso") ||
-|TYPESCRIPT|  ![progress](https://progress-bar.dev/80/ "progresso")||
-|MARKDOWN|  ![progress](https://progress-bar.dev/30/ "progresso")||
-|HTML|  ![progress](https://progress-bar.dev/90/ "progresso")||
-|LARAVEL|  ![progress](https://progress-bar.dev/70/ "progresso")||
-|SYMFONY |  ![progress](https://progress-bar.dev/80/ "progresso")||
-|DJANGO |  ![progress](https://progress-bar.dev/70/ "progresso")||
-|DJANGO REST FRAMEWORK |  ![progress](https://progress-bar.dev/90/ "progresso")||
-|ANGULAR |  ![progress](https://progress-bar.dev/90/ "progresso")||
-|REACT |  ![progress](https://progress-bar.dev/70/ "progresso")||
-|JQUERY |  ![progress](https://progress-bar.dev/60/ "progresso")||
-|Twitter Bootstrap |  ![progress](https://progress-bar.dev/60/ "progresso")||
-|Material Design |  ![progress](https://progress-bar.dev/60/ "progresso")||
-|Semantic UI |  ![progress](https://progress-bar.dev/60/ "progresso")||
-|IONIC |  ![progress](https://progress-bar.dev/80/ "progresso")||
-|ARDUINO |  ![progress](https://progress-bar.dev/80/ "progresso")||
-|Kubernetes |  ![progress](https://progress-bar.dev/40/ "progresso")||
+|--|  
+|WINDOWS| 
+|LINUX|  
+|FREEBSD|  
+|PHP|  
+|PYTHON|  
+|C#|  
+|C++| 
+|MYSQL|  
+|POSTGRESS|  
+|UNITY3D|  
+|UNREAL ENGINE|  
+|BLENDER 3D|  
+|UPBGE|  
+|QTFRAMEWORK|  
+|DELPHI|  
+|DOCKER|  
+|APACHE|  
+|VI|  
+|NANO|  
+|GIT|  
+|JAVASCRIPT|  
+|TYPESCRIPT|  
+|MARKDOWN|  
+|HTML|  
+|LARAVEL|  
+|SYMFONY |  
+|DJANGO |  
+|DJANGO REST FRAMEWORK |  
+|ANGULAR |  
+|REACT |  
+|JQUERY |  
+|Twitter Bootstrap |  
+|Material Design |  
+|Semantic UI |  
+|IONIC |  
+|ARDUINO |  
+|Kubernetes |  
  
   
-
-
-<!--
-**gleisonnanet/gleisonnanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
